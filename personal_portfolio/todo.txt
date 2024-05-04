@@ -1,0 +1,9 @@
+1.
+2.
+3. Add Bootstrap to App (in base.html template)
+4. Template home.html
+5. Add the Projects App (python manage.py startapp projects)
+6. Define a Model (# projects/models.py)  (object relational mapper (ORM)): fields: title, description, technology
+7. Create projects in db
+8. Create the Views
+9.
